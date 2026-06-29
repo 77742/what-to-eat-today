@@ -1,2 +1,17 @@
-# what-to-eat-today
-Ins minimalist random food picker static website, support custom food items with local storage.
+# 今天吃什么
+Ins极简风干饭随机选择器，纯静态单页HTML，无后端依赖。
+
+## ✨ 功能
+1. 一键随机抽取美食
+2. 自定义添加菜品，本地存储，刷新不丢失
+3. 极简黑白ins干净UI
+
+## 📦 本地运行
+直接打开 index.html 文件即可使用
+
+## 🌐 部署方式
+1. GitHub Pages：仓库设置 → Pages，分支main、根目录部署
+2. Vercel：上传文件夹一键部署
+
+## 🔗 在线预览
+等待部署完成后填入项目访问链接
